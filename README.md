@@ -1,12 +1,20 @@
 <h2>Hey 👋, I'm Aleksey, a frontend developer 👨‍💻 working since 2022 🚀</h2>
 
-<div align="center">
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="center" style="width: 100%" />
-</div>  
-### <div align="center"></div>  
-- 🔭 I’m currently working in Tinkoff Bank  
-- 🌱 I’m currently learning SQL and JavaSript  
-- ⚡ I'm 26 y.o.  
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li> 🔭 I’m currently working in Tinkoff Bank  </li>
+<li>🌱 I’m currently learning SQL and JavaSript  </li>
+<li> 🎉 I'm 26 y.o. </li>
+
+</ul>
+
+
+
+
+
+
+
 <br/>  
 ## My Skill Set  
 <h2>🚀 Some Tools I Use</h2>
