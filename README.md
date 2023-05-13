@@ -1,4 +1,5 @@
-<h2>Hey 👋, I'm Aleksey, a frontend developer 👨‍💻 working since 2022 🚀</h2>
+<h1>Hey 👋, I'm Aleksey, a frontend developer 👨‍💻 working since 2022 🚀</h1>
+<br/>  
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -14,7 +15,7 @@
 
 
 
-
+<br/>  
 <br/>  
 ## My Skill Set  
 <h2>🚀 Some Tools I Use</h2>
@@ -26,7 +27,8 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
 </p>
-
+<br/>  
+<br/>  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Salex-V&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
