@@ -17,7 +17,7 @@
 
 <br/>  
 <br/>  
-## My Skill Set  
+
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -29,7 +29,7 @@
 </p>
 <br/>  
 <br/>  
-## Github Stats  
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Salex-V&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
